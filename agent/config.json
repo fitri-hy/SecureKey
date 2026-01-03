@@ -1,0 +1,12 @@
+[
+    {
+        "secret_name": "API_KEY",
+        "allowed_services": ["demo-service"],
+        "allowed_envs": ["dev"]
+    },
+    {
+        "secret_name": "DB_PASSWORD",
+        "allowed_services": ["demo-service"],
+        "allowed_envs": ["dev"]
+    }
+]
