@@ -22,7 +22,6 @@ Proyek ini terdiri dari **Agent** untuk monitoring & enforcement, **Tracker** un
 
     * `/secrets` → daftar semua secret terbaru
     * `/log` → log secret baru dari Agent
-    * `/lineage/:secret` → lineage / riwayat penggunaan secret tertentu
 
 * **Dashboard**
 
